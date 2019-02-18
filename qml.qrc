@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>IMAGE/forground.jpg</file>
+        <file>QML/Function1.qml</file>
+        <file>QML/Function2.qml</file>
+        <file>QML/Function3.qml</file>
+        <file>QML/Parameter.qml</file>
+        <file>QML/Starting.qml</file>
+        <file>QML/BoundingBox.qml</file>
+        <file>QML/CombineUI.qml</file>
+        <file>IMAGE/finish39x38.png</file>
+    </qresource>
+</RCC>
